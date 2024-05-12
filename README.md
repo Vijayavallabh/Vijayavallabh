@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vijayavallabh</h1>
-- 🌱 I’m currently learning **MLOps**
-
 - 📫 How to reach me **vallabh2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
